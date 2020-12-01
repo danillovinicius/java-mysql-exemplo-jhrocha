@@ -1,9 +1,9 @@
 # Programa Java Conectando o Banco de Dados Mysql.
 
 ## Necessário:
-Java 11
-MySQL 5.7
-MySQL JDBC driver mysql-connector-java:8.0.22
+- Java 11
+- MySQL 5.7
+- MySQL JDBC driver mysql-connector-java:8.0.22
 
 ## Banco de Dados
 ````sql
